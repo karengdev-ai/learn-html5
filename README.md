@@ -1,4 +1,4 @@
-# learn-html5
+# learn-HTML5 STARTER
 HTML5 for beginners and those who just want to learn web dev
 # HTML5 Starter
 
